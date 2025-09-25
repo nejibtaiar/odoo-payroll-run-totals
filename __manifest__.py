@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 {    "name": "Payroll Run Totals",
     "summary": "Adds a Net Total field on payslip batches (hr.payslip.run) with auto-recompute.",
-    "version": "18.0.1.0.0",
+    "version": "18.0.1.1.0",
     "category": "Human Resources/Payroll",
     "license": "OPL-1",
     "author": "N\u00e9jib Taiar",
