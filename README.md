@@ -42,7 +42,7 @@ A. Set `payroll_run_totals.net_codes` to your codes (comma-separated). The app w
 A. Yes — contact us; we can extend the module to add **Total Gross** and **Employer Cost**.
 
 **Support & contact**
-- Email: support@example.com
+- Email: nejibtaiar@gmail.com
 - GitHub (issues): https://github.com/your-user/odoo-payroll-run-totals/issues
 
 ## License
