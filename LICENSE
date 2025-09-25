@@ -1,0 +1,24 @@
+
+Copyright (c) 2025 Néjib Taiar
+
+This software and associated files (the "Software") may only be used (executed,
+modified, executed after modifications) if you have purchased a valid license
+from the authors, typically via the Odoo Apps store.
+
+The above permissions are granted for a single database per purchased license.
+For multi-database use or SaaS, additional licenses are required.
+
+You may develop Odoo modules that depend on the Software and distribute them
+under the license of your choice, provided that this does not alter, modify, or
+extend the license terms of the Software. Publishing such dependent modules
+(derivatives) on the Odoo Apps store is allowed.
+
+It is forbidden to publish, distribute, sublicense, or share the Software, in
+source or binary forms, with third parties, except for your end users as part
+of a service delivery. The authors reserve the right to cancel the license if
+the licensee fails to comply with the terms of this license.
+
+This license is not compatible with the GNU LGPL and any other open source
+license.
+
+See also https://www.odoo.com/documentation/user/legal/licenses/licenses.html#odoo-apps

@@ -1,0 +1,26 @@
+
+<odoo>
+  <record id="view_hr_payslip_run_form_inherit_totals" model="ir.ui.view">
+    <field name="name">hr.payslip.run.form.inherit.totals</field>
+    <field name="model">hr.payslip.run</field>
+    <field name="inherit_id" ref="hr_payroll.view_hr_payslip_run_form"/>
+    <field name="arch" type="xml">
+      <xpath expr="//sheet/group" position="inside">
+        <group string="Totals">
+          <field name="total_net" readonly="1"/>
+        </group>
+      </xpath>
+    </field>
+  </record>
+
+  <record id="view_hr_payslip_run_tree_inherit_totals" model="ir.ui.view">
+    <field name="name">hr.payslip.run.tree.inherit.totals</field>
+    <field name="model">hr.payslip.run</field>
+    <field name="inherit_id" ref="hr_payroll.view_hr_payslip_run_tree"/>
+    <field name="arch" type="xml">
+      <xpath expr="//tree" position="inside">
+        <field name="total_net"/>
+      </xpath>
+    </field>
+  </record>
+</odoo>
